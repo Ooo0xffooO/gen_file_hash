@@ -1,7 +1,9 @@
 # gen_file_md5
-Produces an MD5 value for the file
+Generate the hash of the file: md5, sha1, sha256
 
 command:
 ```
-python gen_md5.py file_name
+python gen_md5.py -m md5 file_path
+python gen_md5.py -m sha1 file_path
+python gen_md5.py -m sha256 file_name
 ```
