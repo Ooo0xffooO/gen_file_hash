@@ -1,4 +1,4 @@
-# gen_file_md5
+# gen_file_hash
 Generate the hash of the file: md5, sha1, sha256
 
 command:
